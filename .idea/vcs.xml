@@ -3,7 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jobpro" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mypotcast" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/readit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/university" vcs="Git" />
   </component>
